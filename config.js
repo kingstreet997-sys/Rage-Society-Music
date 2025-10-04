@@ -17,11 +17,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "Rage-Society-Music",
-      password: "Rage",
-      host: "0.0.0.0",
-      port:  8262,
-      secure: false
+      name: "lava-v4.ajieblogs.eu.org",
+      password: "https://dsc.gg/ajidevserver",
+      host: "lava-v4.ajieblogs.eu.org",
+      port:  443,
+      secure: true
     }
   ]
 }
