@@ -19,8 +19,8 @@ module.exports = {
      {
       name: "Jirayu",
       password: "youshallnotpass",
-      host: "lava-v4.ajieblogs.eu.org",
-      port:  13592,
+      host: "5.39.63.207:8262",
+      port:  8262,
       secure: false
     }
   ]
