@@ -17,10 +17,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "Jirayu",
-      password: "youshallnotpass",
-      host: "5.39.63.207:8262",
-      port:  8262,
+      name: "Koi Node V4",
+      password: "prplmoe.me",
+      host: "lavav4.prplmoe.me",
+      port:  1118,
       secure: false
     }
   ]
